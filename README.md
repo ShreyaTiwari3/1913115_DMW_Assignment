@@ -10,5 +10,5 @@ Apriori Algorithm can be slow. The main limitation is time required to hold a va
 
 ## Library Usage
 For now, I'm using Pandas & Numpy
-### Submitted by   - Shreya Sharma
-### Roll Number  - 1913112
+### Submitted by   - Shreya Tiwari
+### Roll Number  - 1913115
